@@ -1,6 +1,6 @@
 ---
 
-#HillCypher-Encryption
+# HillCypher-Encryption
 
 > Encrypts plaintext using the Hill cipher in C. Reads an n×n key matrix from file, filters alphabetic characters, converts to lowercase, pads with 'x', then performs matrix-vector modulo-26 encryption and outputs ciphertext formatted in 80-character lines.
 
