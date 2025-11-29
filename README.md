@@ -16,12 +16,3 @@
 • Dynamically allocated key matrix 2×2–9×9 and produced formatted ciphertext output
 
 ---
-
-If you'd like, I can also generate:
-
-🔹 badges (C, cryptography, algorithms, security)  
-🔹 a banner README header  
-🔹 a GIF-style example run for GitHub  
-🔹 short tagline version (for pinned repo display)
-
-Just say *"add badges"* or *"make it look cooler"* 😎
